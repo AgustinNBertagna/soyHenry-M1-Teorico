@@ -166,9 +166,9 @@
     }
     ```
 
-    En este ejemplo, `antesDeES6` realiza un console.log de una frase en la que se interpolan strings y parámetros que recibe la función.
+    En este ejemplo, antesDeES6 realiza un console.log de una frase en la que se interpolan strings y parámetros que recibe la función.
 
-    Pero luego, en `templateString` podemos ver que esos parámetros ya no se adhieren al string mediante el operador (+). Por lo contrario, se insertan directamente dentro del string. ¿Cómo funciona esto?
+    Pero luego, en templateString podemos ver que esos parámetros ya no se adhieren al string mediante el operador (+). Por lo contrario, se insertan directamente dentro del string. ¿Cómo funciona esto?
 
     1. Para crear un template string, primero, es necesario utilizar los backsticks (``). De la misma manera que existen las comillas simples (' ') y las dobles (" "), existen estas nuevas comillas.
 
