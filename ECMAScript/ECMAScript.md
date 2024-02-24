@@ -325,4 +325,4 @@ La Inteligencia Artificial (IA) es una rama de la informática que busca crear s
     * ***Template Objects y Template Literals:*** Los Template Literals facilitan la creación de cadenas de texto multilínea y la interpolación de variables de manera más limpia. Los Template Objects extienden esta funcionalidad permitiendo la creación de objetos de manera similar.
 
     ![ECMAScript](./cierreECMAScript.jpg)
-***
+**
